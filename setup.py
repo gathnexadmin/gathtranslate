@@ -18,11 +18,7 @@ setup(
     packages=['gathtranslater'],
 
     install_requires=[
-        'concurrent.futures',
-        'requests',
-        'regex',  # 're' module is included in the regex package
-        'html',
-        'urllib3',
+        "openai"
     ],
 
     # Other metadata such as license, classifiers, etc.
