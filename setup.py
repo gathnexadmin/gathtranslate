@@ -18,7 +18,6 @@ setup(
     packages=['gathtranslater'],
 
     install_requires=[
-        "openai"
     ],
 
     # Other metadata such as license, classifiers, etc.
