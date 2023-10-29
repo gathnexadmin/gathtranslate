@@ -15,7 +15,7 @@ setup(
     url='https://github.com/gathnexadmin/gathtranslate.git',
 
     # Packages to be included in the distribution
-    packages=['gathtranslater', "__init__.py"],
+    packages=['gathtranslater'],
 
     install_requires=[
         'concurrent.futures',
